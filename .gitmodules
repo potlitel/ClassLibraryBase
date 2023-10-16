@@ -1,0 +1,3 @@
+[submodule "consoleApp"]
+	path = consoleApp
+	url = https://github.com/potlitel/consoleApp
